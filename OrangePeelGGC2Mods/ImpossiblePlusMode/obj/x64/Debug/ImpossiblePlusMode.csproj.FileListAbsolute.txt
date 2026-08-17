@@ -1,8 +1,0 @@
-C:\Users\highe\source\repos\OrangePeelGGC2Mods\ImpossiblePlusMode\bin\x64\Debug\ImpossiblePlusMode.dll
-C:\Users\highe\source\repos\OrangePeelGGC2Mods\ImpossiblePlusMode\bin\x64\Debug\ImpossiblePlusMode.pdb
-C:\Users\highe\source\repos\OrangePeelGGC2Mods\ImpossiblePlusMode\obj\x64\Debug\ImpossiblePlusMode.csproj.AssemblyReference.cache
-C:\Users\highe\source\repos\OrangePeelGGC2Mods\ImpossiblePlusMode\obj\x64\Debug\ImpossiblePlusMode.csproj.CoreCompileInputs.cache
-C:\Users\highe\source\repos\OrangePeelGGC2Mods\ImpossiblePlusMode\obj\x64\Debug\ImpossiblePlusMode.dll
-C:\Users\highe\source\repos\OrangePeelGGC2Mods\ImpossiblePlusMode\obj\x64\Debug\ImpossiblePlusMode.pdb
-D:\steam\steamapps\common\Guns, Gore and Cannoli 2\BepInEx\plugins\ImpossiblePlusMode.dll
-D:\steam\steamapps\common\Guns, Gore and Cannoli 2\BepInEx\plugins\ImpossiblePlusMode.pdb
