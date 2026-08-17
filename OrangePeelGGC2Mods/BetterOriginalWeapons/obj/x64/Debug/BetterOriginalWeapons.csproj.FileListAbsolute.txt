@@ -1,6 +1,0 @@
-D:\steam\steamapps\common\Guns, Gore and Cannoli 2\BepInEx\plugins\BetterOriginalWeapons.dll
-D:\steam\steamapps\common\Guns, Gore and Cannoli 2\BepInEx\plugins\BetterOriginalWeapons.pdb
-C:\Users\highe\source\repos\OrangePeelGGC2Mods\BetterOriginalWeapons\obj\x64\Debug\BetterOriginalWeapons.csproj.AssemblyReference.cache
-C:\Users\highe\source\repos\OrangePeelGGC2Mods\BetterOriginalWeapons\obj\x64\Debug\BetterOriginalWeapons.csproj.CoreCompileInputs.cache
-C:\Users\highe\source\repos\OrangePeelGGC2Mods\BetterOriginalWeapons\obj\x64\Debug\BetterOriginalWeapons.dll
-C:\Users\highe\source\repos\OrangePeelGGC2Mods\BetterOriginalWeapons\obj\x64\Debug\BetterOriginalWeapons.pdb
