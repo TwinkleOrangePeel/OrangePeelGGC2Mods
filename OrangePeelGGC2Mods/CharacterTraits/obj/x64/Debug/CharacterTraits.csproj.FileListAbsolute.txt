@@ -1,0 +1,6 @@
+C:\Users\highe\source\repos\OrangePeelGGC2Mods\Character Traits & Secret Character Pack\obj\x64\Debug\CharacterTraits.csproj.AssemblyReference.cache
+C:\Users\highe\source\repos\OrangePeelGGC2Mods\Character Traits & Secret Character Pack\obj\x64\Debug\CharacterTraits.csproj.CoreCompileInputs.cache
+D:\steam\steamapps\common\Guns, Gore and Cannoli 2\BepInEx\plugins\CharacterTraits.dll
+D:\steam\steamapps\common\Guns, Gore and Cannoli 2\BepInEx\plugins\CharacterTraits.pdb
+C:\Users\highe\source\repos\OrangePeelGGC2Mods\Character Traits & Secret Character Pack\obj\x64\Debug\CharacterTraits.dll
+C:\Users\highe\source\repos\OrangePeelGGC2Mods\Character Traits & Secret Character Pack\obj\x64\Debug\CharacterTraits.pdb
