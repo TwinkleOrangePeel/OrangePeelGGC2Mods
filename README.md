@@ -10,6 +10,14 @@ This collection currently includes three mods:
 - **CharacterTraits**: Introduces a unique trait system for characters, adding strategic depth and more diverse playstyles to each run.
 - **ImpossiblePlusMode**: Significantly ramps up the game's difficulty, delivering a more intense and challenging experience for players seeking the ultimate test.
 
+## 📖 Detailed Mod Documentation
+
+For more detailed information about each mod's specific changes, please refer to their respective documentation:
+
+- [BetterOriginalWeapons Detailed Changes](./BetterOriginalWeapons/README.md)
+- [CharacterTraits Detailed Changes](./CharacterTraits/README.md)
+- [ImpossiblePlusMode Detailed Changes](./ImpossiblePlusMode/README.md)
+
 ## 📋 Requirements
 
 - Game Version: release_1.0.8
@@ -37,6 +45,8 @@ This project is licensed under the [MIT](LICENSE) license.
 
 TwinkleOrangePeel
 
+---
+
 ************************************************************************************************************************************
 
 # OrangePeelGGC2Mods
@@ -50,6 +60,14 @@ TwinkleOrangePeel
 - **BetterOriginalWeapons（更好的原版武器）**：在原版武器基础上进行调整与优化，带来更舒适的射击手感与战斗节奏。
 - **CharacterTraits（角色特质）**：为角色引入独特的特质系统，丰富每局游戏的策略选择与玩法多样性。
 - **ImpossiblePlusMode（噩梦难度模式）**：大幅提升游戏挑战性，为追求极限的玩家提供更具压迫感的战斗体验。
+
+## 📖 模组详细说明
+
+如需了解每个模组的具体改动内容，请参阅以下文档：
+
+- [BetterOriginalWeapons 详细改动](./BetterOriginalWeapons/README.md)
+- [CharacterTraits 详细改动](./CharacterTraits/README.md)
+- [ImpossiblePlusMode 详细改动](./ImpossiblePlusMode/README.md)
 
 ## 📋 前置要求
 
