@@ -13,12 +13,12 @@ This collection currently includes three mods:
 ## 📋 Requirements
 
 - Game Version: release_1.0.8
-- Dependency Framework: BepInEx 5.4.23.5
+- Dependency Framework: [BepInEx 5.4.23.5](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.5)
 - .NET Runtime: .NET Framework 4.7.2
 
 ## 🚀 Installation
 
-1.  Download the latest `.dll` file from the Releases section of this repository.
+1.  Download the latest `.dll` file from the [Releases](https://github.com/TwinkleOrangePeel/OrangePeelGGC2Mods/releases/tag/V1.0.0) section of this repository.
 2.  Place the downloaded `.dll` file into the `BepInEx/plugins/` folder within your game installation directory.
 3.  Launch the game. The mods will be loaded automatically.
 
@@ -26,8 +26,8 @@ This collection currently includes three mods:
 
 This mod collection is compatible with the following mods when both the host and clients have the same setup:
 
-- `GGC2LanModule` by Otomje
-- `GGC2CoopFixes` by Flamming
+- [`GGC2LanModule`](https://github.com/ggc2-lan-dev/ggc2-lanmodule) by Otomje
+- [`GGC2CoopFixes`](https://github.com/FlammingFire/ggc2-coop-fixes) by Flamming
 
 ## 📜 License
 
@@ -54,12 +54,12 @@ TwinkleOrangePeel
 ## 📋 前置要求
 
 - 游戏版本：release_1.0.8
-- 依赖框架：BepInEx 5.4.23.5
+- 依赖框架：[BepInEx 5.4.23.5](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.5)
 - .NET 运行时：.NET Framework 4.7.2
 
 ## 🚀 安装方法
 
-1.  从本仓库的 Releases 页面下载最新的 `.dll` 文件。
+1.  从本仓库的 [Releases](https://github.com/TwinkleOrangePeel/OrangePeelGGC2Mods/releases/tag/V1.0.0) 页面下载最新的 `.dll` 文件。
 2.  将下载的 `.dll` 文件放入游戏目录下的 `BepInEx/plugins/` 文件夹中。
 3.  启动游戏即可自动加载。
 
@@ -67,8 +67,8 @@ TwinkleOrangePeel
 
 在主机和客机都安装相同模组的情况下，本模组集可与以下模组良好兼容：
 
-- Otomje 的 `GGC2LanModule`
-- Flamming 的 `GGC2CoopFixes`
+- Otomje 的 [`GGC2LanModule`](https://github.com/ggc2-lan-dev/ggc2-lanmodule)
+- Flamming 的 [`GGC2CoopFixes`](https://github.com/FlammingFire/ggc2-coop-fixes)
 
 ## 📜 许可证
 
