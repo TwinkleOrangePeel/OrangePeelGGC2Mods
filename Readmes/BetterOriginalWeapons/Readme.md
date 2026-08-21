@@ -25,7 +25,7 @@ This mod systematically rebalances and refines all original weapons in *Guns, Go
 - **Grenade Launcher**: Increased damage, more threatening against groups of enemies.
 - **88mm Cannon Shell**: Increased carrying capacity, allowing more frequent use of heavy firepower.
 
-### 🎯 Shotguns & Flamethrower
+### 💥 Shotguns & Flamethrower
 - **Shotgun**: Increased damage, knockback, magazine capacity, and reserve ammo, greater close-range burst potential.
 - **Flamethrower**: Increased base damage, making continuous burning more lethal.
 
@@ -87,7 +87,7 @@ Thanks to all testers and players for your feedback, which helped improve this m
 - **榴弹发射器**：伤害提升，对群体敌人威胁更大。
 - **88 炮炮弹**：携带量增加，可更频繁地使用重型火力。
 
-### 🎯 霰弹枪与火焰喷射器
+### 💥 霰弹枪与火焰喷射器
 - **霰弹枪**：伤害、击退效果、弹匣容量及备弹量均得到增强，近战爆发力更足。
 - **火焰喷射器**：基础伤害提高，持续灼烧效果更具威胁。
 
