@@ -1,28 +1,34 @@
-# CharacterTraits
-
 This mod introduces a unique trait system for playable characters in *Guns, Gore and Cannoli 2*. Each character now possesses distinct abilities, damage bonuses, resistances, and playstyle-defining perks, adding strategic depth and encouraging diverse approaches to each run.
 
 ## 🎭 Character Traits Overview
 
 ### Vinnie
+<img width="50" height="50" alt="VinniePortrait" src="https://github.com/user-attachments/assets/9fbee795-5cf6-47fd-943f-6f2cbb11f8a1" />
+
 - Increased Cannoli health regeneration rate.
 - Bonus damage with Thompson and Schmeisser submachine guns.
 - Bonus damage against Gangsters and Zombies.
 > 💡 Weapon-specific damage bonuses and enemy-type damage bonuses do not stack—only the higher value applies.
 
 ### Paulie
+<img width="50" height="50" alt="PauliePortrait" src="https://github.com/user-attachments/assets/d8cac7cd-aa65-437c-824d-5fae143d22d2" />
+
 - Flat damage resistance against all sources.
 - Bonus damage with MG42.
 - Bonus damage against German forces.
 - Additional resistance against attacks from US forces.
 
 ### Daisy
+<img width="50" height="50" alt="DaisyPortrait" src="https://github.com/user-attachments/assets/7a2d49e9-8807-44df-a58f-789d84123982" />
+
 - Bonus damage while crouching.
 - Can instantly eliminate unaware enemies.
 - Reduced threat generation in multiplayer mode.
 - Will not be automatically targeted by searchlights.
 
 ### Ramboli
+<img width="50" height="50" alt="RamboliPortrait" src="https://github.com/user-attachments/assets/0eadc9be-f828-4240-aef7-3964d9f25ee1" />
+
 - Significantly increased maximum health.
 - Deals more damage as health decreases, reaching peak efficiency at low health.
 - Bonus damage with AK47.
@@ -30,23 +36,31 @@ This mod introduces a unique trait system for playable characters in *Guns, Gore
 > 💡 Weapon-specific damage bonuses and the "rage" damage bonus stack multiplicatively.
 
 ### Vindiana
+<img width="50" height="50" alt="VindianaPortrait" src="https://github.com/user-attachments/assets/6175cc5f-5e99-4c1c-a46c-4ec783be52fd" />
+
 - Bonus damage with all pistol-class weapons.
 - Enhanced penetration capability for Mauser pistol.
 - Mauser pistol attacks now apply knockback.
 - Bonus damage against German forces.
 
 ### SantaVinnie
+<img width="50" height="50" alt="SantaVinniePortrait" src="https://github.com/user-attachments/assets/acf9c602-9b8e-474c-baed-7ec3fdb33882" />
+
 - Significantly increased explosive damage output.
 - High resistance to explosive damage.
 - Complete immunity to fire damage.
 
 ### Vindiactor
+<img width="50" height="50" alt="VindicatorPortrait" src="https://github.com/user-attachments/assets/93bcbded-b924-4d6a-944e-58eba7e51d4c" />
+
 - Headshots deal massively increased damage.
 - Also receives increased damage from enemy headshots.
 - Bonus damage against human-type enemies.
 > 💡 Headshot damage bonuses and enemy-type damage bonuses stack multiplicatively.
 
 ### VinnieMcClane
+<img width="50" height="50" alt="VinnieMcClanePortrait" src="https://github.com/user-attachments/assets/944b5a3a-ecad-44ab-8b66-324474caaca1" />
+
 - Significantly increased melee damage.
 - Baseball bat attacks can now inflict stun effects on enemies.
 - Baseball bat attacks have a small chance to instantly eliminate enemies.
@@ -55,6 +69,8 @@ This mod introduces a unique trait system for playable characters in *Guns, Gore
 - Additional resistance against attacks from Police forces.
 
 ### SteamPunkVinnie
+<img width="50" height="50" alt="SteampunkVinniePortrait" src="https://github.com/user-attachments/assets/e1ed58fb-5e8a-4abb-be97-9f83d2e253b2" />
+
 - Increased jump takeoff speed.
 - Gains the ability to perform triple jumps.
 - Increased fall damage threshold—allows safe landings from greater heights.
@@ -62,15 +78,21 @@ This mod introduces a unique trait system for playable characters in *Guns, Gore
 - Bonus damage against Items, Bosses, and Giant Mechs.
 
 ### Zoey
+<img width="50" height="50" alt="ZoeyPortrait" src="https://github.com/user-attachments/assets/581c407f-c803-4eb9-b1ee-97f8f08b034f" />
+
 - Bonus damage with Shotguns.
 - Shotgun attacks can pierce through enemies with significantly reduced damage falloff (retaining high damage on subsequent targets).
 
 ### SlavVinnie
+<img width="50" height="50" alt="SlavVinniePortrait" src="https://github.com/user-attachments/assets/f2d14f84-f2e9-4172-9634-2d1043ecda33" />
+
 - Significantly increased knockback power on all attacks.
 - Increased movement speed while standing and crouching.
 - Increased dodge-roll speed.
 
 ### Luigi
+<img width="50" height="50" alt="LuigiPortrait" src="https://github.com/user-attachments/assets/90a9e885-945b-4056-af14-d4deb38072db" />
+
 - All attacks have a moderate chance to land a critical hit.
 - Critical hits deal bonus damage and apply knockback.
 - Critical hits restore a small percentage of health.
@@ -114,24 +136,32 @@ Thanks to all testers and players for your valuable feedback.
 ## 🎭 角色特质一览
 
 ### 文尼 (Vinnie)
+<img width="50" height="50" alt="VinniePortrait" src="https://github.com/user-attachments/assets/9fbee795-5cf6-47fd-943f-6f2cbb11f8a1" />
+
 - 提高 Cannoli 生命恢复速度。
 - 使用汤姆逊冲锋枪和施迈瑟冲锋枪时伤害提升。
 - 对黑帮和僵尸造成额外伤害。
 > 💡 武器增伤与对特定单位增伤不可叠加，仅取较高值生效。
 
 ### 泡利 (Paulie)
+<img width="50" height="50" alt="PauliePortrait" src="https://github.com/user-attachments/assets/d8cac7cd-aa65-437c-824d-5fae143d22d2" />
+
 - 拥有全伤害减免能力。
 - 使用 MG42 时伤害提升。
 - 对德军造成额外伤害。
 - 对美军的攻击具有额外抗性。
 
 ### 黛西 (Daisy)
+<img width="50" height="50" alt="DaisyPortrait" src="https://github.com/user-attachments/assets/7a2d49e9-8807-44df-a58f-789d84123982" />
+
 - 蹲伏时伤害提升。
 - 可以秒杀尚未警觉的敌人。
 - 多人模式下仇恨值更低，不易成为目标。
 - 不会被探照灯主动锁定。
 
 ### 兰博文尼 (Ramboli)
+<img width="50" height="50" alt="RamboliPortrait" src="https://github.com/user-attachments/assets/0eadc9be-f828-4240-aef7-3964d9f25ee1" />
+
 - 最大生命值显著提升。
 - 生命值越低造成的伤害越高，在低血量时达到峰值。
 - 使用 AK47 时伤害提升。
@@ -139,23 +169,31 @@ Thanks to all testers and players for your valuable feedback.
 > 💡 武器增伤与“血怒”增伤可叠加，且为乘算。
 
 ### 印第安纳文尼 (Vindiana)
+<img width="50" height="50" alt="VindianaPortrait" src="https://github.com/user-attachments/assets/6175cc5f-5e99-4c1c-a46c-4ec783be52fd" />
+
 - 使用所有手枪类武器时伤害提升。
 - 毛瑟手枪穿透能力增强。
 - 毛瑟手枪攻击可以造成击退效果。
 - 对德军造成额外伤害。
 
 ### 圣诞老人文尼 (SantaVinnie)
+<img width="50" height="50" alt="SantaVinniePortrait" src="https://github.com/user-attachments/assets/acf9c602-9b8e-474c-baed-7ec3fdb33882" />
+
 - 爆炸伤害大幅提升。
 - 拥有极高的爆炸伤害抗性。
 - 完全免疫火焰伤害。
 
 ### 终结者文尼 (Vindiactor)
+<img width="50" height="50" alt="VindicatorPortrait" src="https://github.com/user-attachments/assets/93bcbded-b924-4d6a-944e-58eba7e51d4c" />
+
 - 爆头造成巨额伤害。
 - 自身受到敌方爆头时也会承受额外伤害。
 - 对人类单位造成额外伤害。
 > 💡 爆头增伤与对特定单位增伤可叠加，且为乘算。
 
 ### 麦克莱恩文尼 (VinnieMcClane)
+<img width="50" height="50" alt="VinnieMcClanePortrait" src="https://github.com/user-attachments/assets/944b5a3a-ecad-44ab-8b66-324474caaca1" />
+
 - 近战伤害大幅提升。
 - 球棍攻击可以打出硬直效果。
 - 球棍攻击有概率一击秒杀敌人。
@@ -164,6 +202,8 @@ Thanks to all testers and players for your valuable feedback.
 - 对警察的攻击具有额外抗性。
 
 ### 蒸汽朋克文尼 (SteamPunkVinnie)
+<img width="50" height="50" alt="SteampunkVinniePortrait" src="https://github.com/user-attachments/assets/e1ed58fb-5e8a-4abb-be97-9f83d2e253b2" />
+
 - 起跳速度提升。
 - 获得三段跳能力。
 - 摔落伤害触发阈值提高，可以从更高处安全落地。
@@ -171,15 +211,21 @@ Thanks to all testers and players for your valuable feedback.
 - 对物品、BOSS 和机械巨人造成额外伤害。
 
 ### 佐伊 (Zoey)
+<img width="50" height="50" alt="ZoeyPortrait" src="https://github.com/user-attachments/assets/581c407f-c803-4eb9-b1ee-97f8f08b034f" />
+
 - 使用霰弹枪时伤害提升。
 - 霰弹枪具备穿透效果，且穿透后的伤害衰减大幅降低（对后续目标仍能造成较高伤害）。
 
 ### 斯拉夫文尼 (SlavVinnie)
+<img width="50" height="50" alt="SlavVinniePortrait" src="https://github.com/user-attachments/assets/f2d14f84-f2e9-4172-9634-2d1043ecda33" />
+
 - 所有攻击的击退效果显著增强。
 - 站立和蹲伏时移动速度提升。
 - 翻滚速度提升。
 
 ### 路易斯 (Luigi)
+<img width="50" height="50" alt="LuigiPortrait" src="https://github.com/user-attachments/assets/90a9e885-945b-4056-af14-d4deb38072db" />
+
 - 所有攻击有概率造成暴击。
 - 暴击时伤害提升并附带击退效果。
 - 暴击时回复少量生命值。
