@@ -41,7 +41,7 @@ This mod collection is compatible with the following mods when both the host and
 
 This project is licensed under the [MIT](LICENSE) license.
 
-## 👤 Author
+## 🍊 Author
 
 TwinkleOrangePeel
 
@@ -92,6 +92,6 @@ TwinkleOrangePeel
 
 本项目使用 [MIT](LICENSE) 开源许可证。
 
-## 👤 作者
+## 🍊 作者
 
 TwinkleOrangePeel
