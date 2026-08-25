@@ -21,13 +21,8 @@ This mod significantly enhances the difficulty of the "Impossible" difficulty mo
 - **Flamethrower German Soldiers**: Now have a small chance to appear in place of Shotgun German Soldiers.
 - **Rocket Launcher German Soldiers (Tracking Missiles)**: Now have a small chance to appear in place of standard Rocket Launcher German Soldiers.
 
-### 🧟 Zombies & Mutants
-- **Brute Zombies**: Increased punch damage and knockback, making them even more devastating in melee.
-- **Mechanical Brutes**: Increased slash damage and knockback, posing a greater threat up close.
-- **Armless Zombies / Maid Zombies**: Increased swipe damage, making even basic zombies more dangerous.
-- **Small Rats**: Increased pounce damage, and now have a small chance to appear in place of Prisoner Zombies in early-game levels.
-- **Medium Rats**: Now have a small chance to appear in place of Runner Zombies in early-game levels.
-- **Large Rats**: Now have a small chance to appear in place of Soldier Zombies in early-game levels.
+### 🤖 Mechanical Units
+- Significantly increased health pools for all German turrets and boss units throughout the game, making these high-priority threats much more durable and demanding more focused firepower to take down.
 
 ### 🥊 Melee Enemies
 - **Bench-wielding Gangsters**: Increased bench swing damage.
@@ -36,6 +31,14 @@ This mod significantly enhances the difficulty of the "Impossible" difficulty mo
 - **German Guards**: Increased blade slash damage.
 - **All Enemies' Kick Attacks**: Increased knockback, making their melee counters more disruptive.
 - **Bodyguards**: Increased charging attack knockback, making their rushes harder to withstand.
+
+### 🧟 Zombies & Mutants
+- **Brute Zombies**: Increased punch damage and knockback, making them even more devastating in melee.
+- **Mechanical Brutes**: Increased slash damage and knockback, posing a greater threat up close.
+- **Armless Zombies / Maid Zombies**: Increased swipe damage, making even basic zombies more dangerous.
+- **Small Rats**: Increased pounce damage, and now have a small chance to appear in place of Prisoner Zombies in early-game levels.
+- **Medium Rats**: Now have a small chance to appear in place of Runner Zombies in early-game levels.
+- **Large Rats**: Now have a small chance to appear in place of Soldier Zombies in early-game levels.
 
 ## ⚙️ Installation
 
@@ -92,13 +95,8 @@ Thanks to all testers and players for your feedback, which helped push this mod 
 - **喷火器德军**：现在有小概率替代霰弹枪德军出现。
 - **跟踪导弹德军**（火箭筒德军变种）：现在有小概率替代普通火箭筒德军出现。
 
-### 🧟 僵尸与变异体
-- **野兽僵尸**：拳击伤害与击退提升，近战破坏力更强。
-- **机械野兽**：挥刀伤害与击退提升，近身威胁更大。
-- **断臂僵尸 / 女仆僵尸**：挥击伤害提升，基础僵尸也更加危险。
-- **小型老鼠**：飞扑伤害提升，并在游戏前期关卡中有小概率替代囚犯僵尸出现。
-- **中型老鼠**：在游戏前期关卡中有小概率替代跑尸出现。
-- **大型老鼠**：在游戏前期关卡中有小概率替代士兵僵尸出现。
+### 💀 BOSS 与炮台
+- 大幅增加了游戏中所有德军炮台和 BOSS 单位的生命值，使这些高优先级威胁更加耐打，需要玩家集中火力才能有效击破。
 
 ### 🥊 近战敌人
 - **板凳黑帮**：板凳挥击伤害提升。
@@ -107,6 +105,14 @@ Thanks to all testers and players for your feedback, which helped push this mod 
 - **德军警卫**：挥刀伤害提升。
 - **所有敌人踢击**：击退效果增强，近身反击更具威胁。
 - **保镖**：冲锋撞击的击退效果增强，冲撞更难抵御。
+
+### 🧟 僵尸与变异体
+- **野兽僵尸**：拳击伤害与击退提升，近战破坏力更强。
+- **机械野兽**：挥刀伤害与击退提升，近身威胁更大。
+- **断臂僵尸 / 女仆僵尸**：挥击伤害提升，基础僵尸也更加危险。
+- **小型老鼠**：飞扑伤害提升，并在游戏前期关卡中有小概率替代囚犯僵尸出现。
+- **中型老鼠**：在游戏前期关卡中有小概率替代跑尸出现。
+- **大型老鼠**：在游戏前期关卡中有小概率替代士兵僵尸出现。
 
 ## ⚙️ 安装方法
 
